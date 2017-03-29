@@ -9,4 +9,4 @@ The related information regarding this dataset can be accessed below:
 * [Iditarod (official site)](http://iditarod.com/)
 
 ## Notice
-The better and interactive version of this analysis can be reached [here](http://nbviewer.jupyter.org/github/lwkuant/Side_project_Iditarod/blob/0c03fa4990c3e9170df0c45df5cd036684bde625/Iditarod_analysis.ipynb)
+The better and interactive version of this analysis can be reached [here](http://nbviewer.jupyter.org/github/lwkuant/Side_project_Iditarod/blob/cad3eb2e1391eefecee452d944156483896d67ca/Iditarod_analysis.ipynb)
